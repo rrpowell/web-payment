@@ -1,7 +1,12 @@
 {
-  "main.css": "static/css/main.9a0fe4f1.css",
-  "main.css.map": "static/css/main.9a0fe4f1.css.map",
-  "main.js": "static/js/main.bf121666.js",
-  "main.js.map": "static/js/main.bf121666.js.map",
-  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg"
+  "main.css": "static/css/main.6de20287.css",
+  "main.css.map": "static/css/main.6de20287.css.map",
+  "main.js": "static/js/main.44449538.js",
+  "main.js.map": "static/js/main.44449538.js.map",
+  "static/media/dropdown-arrow.svg": "static/media/dropdown-arrow.2fec379f.svg",
+  "static/media/dropdown-blue.svg": "static/media/dropdown-blue.adbf08f5.svg",
+  "static/media/firefox.svg": "static/media/firefox.11da7846.svg",
+  "static/media/help.svg": "static/media/help.24b46234.svg",
+  "static/media/paypal.svg": "static/media/paypal.3ea6b3c9.svg",
+  "static/media/visa.svg": "static/media/visa.58a0dbfe.svg"
 }
