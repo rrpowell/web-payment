@@ -1,9 +1,9 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Firefox Web Payment",
+  "name": "Firefox Web Payment",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "favicon-32x32.png",
       "sizes": "192x192",
       "type": "image/png"
     }
